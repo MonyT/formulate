@@ -1,3 +1,5 @@
+Set githubtoken `REACT_APP_GITHUBTOKEN` in `.env` file
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
